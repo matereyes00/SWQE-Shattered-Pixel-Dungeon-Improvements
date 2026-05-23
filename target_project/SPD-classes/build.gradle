@@ -8,6 +8,17 @@ dependencies {
     api "com.badlogicgames.gdx-controllers:gdx-controllers-core:$gdxControllersVersion"
     implementation "com.badlogicgames.gdx:gdx-freetype:$gdxVersion"
 
+    testImplementation 'junit:junit:4.13.2'
+    testImplementation 'org.mockito:mockito-core:4.11.0'
+
     //noinspection GradleDependency , later JSON versions cause crashes on old versions of android
     implementation "org.json:json:20170516"
+}
+
+sourceSets {
+    test {
+        java {
+            srcDir 'src/test/java'
+        }
+    }
 }

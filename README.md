@@ -9,7 +9,7 @@ We are extending **Shattered Pixel Dungeon v3.0.2** through three source-code-le
 
 The objective of this assignment is to improve the quality of an existing open-source Java project using the **ISO/IEC 25010 software quality model**.
 
-Our group is implementing:
+Our group is implementinggg:
 
 1. **In-Game Screenshot Shortcut**  
    Improves **usability** and **operability**.
