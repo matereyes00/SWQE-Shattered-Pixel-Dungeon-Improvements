@@ -2,6 +2,8 @@
 
 This repository contains our group’s work for **ELEC5618 Software Quality Engineering — Assignment 3**.  
 We are extending **Shattered Pixel Dungeon v3.0.2** through three source-code-level quality improvements, supported by testing, verification, and a structured GitHub workflow.
+For a detailed look into how we managed an enterprise level codebase management comprising of CI/CD Pipeline Management, Pull Request Management and Commit History please go the github link
+"https://github.com/matereyes00/SWQE-Shattered-Pixel-Dungeon-Improvements.git"
 
 ---
 
@@ -9,7 +11,7 @@ We are extending **Shattered Pixel Dungeon v3.0.2** through three source-code-le
 
 The objective of this assignment is to improve the quality of an existing open-source Java project using the **ISO/IEC 25010 software quality model**.
 
-Our group is implementinggg:
+Our group is implementing:
 
 1. **In-Game Screenshot Shortcut**  
    Improves **usability** and **operability**.
