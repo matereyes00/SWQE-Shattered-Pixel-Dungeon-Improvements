@@ -445,11 +445,11 @@ These are excluded through `.gitignore` to keep Pull Requests clean and focused 
 
 # Group Members
 
-- **Karan Singh Biswakarma** — MPE Software Accelerated
-- **Martina Therese Reyes** — Software Engineering Accelerated
-- **Amogh Ranganatha Gowda** — MPE Software Accelerated
-- **[Add Member Name]**
-- **[Add Member Name]**
+-Rugved Rahul Deshmukh - SID: 550911245
+-Martina Therese Reyes - SID: 560097708
+-Karan Biswakarma - SID: 550912264
+-Amogh Ranganatha Gowda - SID: 560312313
+-Nikki Nguyen - SID: 520445060
 
 ---
 
@@ -459,7 +459,6 @@ The final submission will include:
 
 - Modified Shattered Pixel Dungeon source code
 - One video demonstration of implemented improvements and testing activities
-- Optional presentation slides, if used in the final video
 
 ---
 
